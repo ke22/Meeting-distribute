@@ -1,0 +1,5 @@
+{
+  "name": "Presentation Sign-up & Lottery",
+  "description": "An application for students to sign up for presentation slots and for an administrator to run a lottery for class roles. Results are displayed in a table format, simulating a Google Sheet entry.",
+  "requestFramePermissions": []
+}
